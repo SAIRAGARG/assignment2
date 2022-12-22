@@ -1,0 +1,33 @@
+output1)
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+
+output2)
+Hey saira garg  Here!My SID is  22103088 .I am from CSE department. My CGPA is 10
+
+output3)
+x & y = 8
+x | y= 58
+x ^ y= 50
+left shift both x and y with 2 bits = 224 = 40
+right shifting x with 2 bits and y with 4 bits= 14 = 0
+
+output4)
+enter the 1st number: 10
+enter the 2nd number: 20
+enter the 3rd number: 30
+the greatest of all the numbers is 30.0
+
+output5)
+enter the string: my name is saira
+yes
+
+output6)
+enter the length of side 1:10
+enter the length of side 2:12
+enter the length of side 3:14
+yes
